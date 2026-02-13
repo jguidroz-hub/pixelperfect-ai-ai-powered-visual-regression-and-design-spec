@@ -61,7 +61,7 @@ export default function VisualTestsPage() {
         </button>
       </div>
 
-      <p className="text-gray-600 mb-6">View and analyze visual test results</p>
+      <p className="text-gray-600 mb-6">View and designSpecs visual test results</p>
 
       {showCreate && (
         <div className="mb-6 p-4 border rounded-lg bg-gray-50">

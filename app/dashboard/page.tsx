@@ -34,7 +34,7 @@ export default function DashboardPage() {
           </a>
           <a href="/dashboard/visual-tests" className="block p-4 border rounded-lg hover:bg-blue-50 transition">
             <h3 className="font-medium">Visual Regression Tests</h3>
-            <p className="text-sm text-gray-500">View and analyze visual test results</p>
+            <p className="text-sm text-gray-500">View and designSpecs visual test results</p>
           </a>
           <a href="/run-test" className="block p-4 border rounded-lg hover:bg-blue-50 transition">
             <h3 className="font-medium">Run Visual Test</h3>
